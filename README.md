@@ -1,8 +1,9 @@
 # Jobby
 
-Welcome to Jobby!
+Jobby is a tiny concept React web app that provides an interface to the [GraphQL Jobs API](https://api.graphql.jobs/)
 
 ## Running
+This project was bootstrapped with [create-react-app](https://github.com/facebook/create-react-app), therefore `react-scripts` are available.
 
 In the project directory, you can run:
 
@@ -11,7 +12,6 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Other `react-scripts` are also available.
 
 ## About
 This is a SPA so all navigation occurs from the root route. You can, however, use the following routes to navigate:
